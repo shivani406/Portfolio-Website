@@ -21,7 +21,7 @@ const ResumeSection = () => {
 
           {/* Download Link */}
           <a
-            href="/resume.pdf"
+            href="/Shivani Parate-Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
