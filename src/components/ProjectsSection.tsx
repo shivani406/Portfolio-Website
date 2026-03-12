@@ -24,7 +24,7 @@ const ProjectsSection = () => {
       featured: true,
     },
     {
-      title: "CrowdSafe:Real time Crowd Monitoring & Alert System (In Progress)",
+      title: "RAG based AI Research Assistant for Literature Review",
       description:
         "AI-based real-time crowd monitoring system that analyzes live camera feeds to detect congestion, generate heatmaps, and send proactive safety alerts for large public gatherings.",
       tags: ["YOLO","OpenCV","Gemini Vision","FastAPI","Firebase","Vertex AI","Google Maps API"],

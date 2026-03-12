@@ -65,7 +65,7 @@ const ContactSection = () => {
         {/* Footer */}
         <div className="mt-20 pt-8 border-t border-border text-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 Shivani Parate. Built with passion and code.
+            © 2026 Shivani Parate. Built with passion and code.
           </p>
         </div>
       </div>
