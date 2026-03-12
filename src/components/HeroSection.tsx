@@ -28,7 +28,9 @@ const HeroSection = () => {
               
             </div>
 
-            <p className="text-muted-foreground text-lg max-w-lg leading-relaxed">Driven by curiosity, I enjoy exploring how technology can be applied to solve real-world problems. My current focus includes Data Analysis, Machine Learning, and backend development with Flask and FastAPI. I am also actively building a strong foundation in Data Structures and Algorithms through regular practice and problem-solving.</p>
+            <p className="text-muted-foreground text-lg max-w-lg leading-relaxed">I like building the robust, scalable pipelines that turn chaotic, high-frequency streams into reliable assets.Currently, I am working on building a Real-Time Scalable Pipeline for Cryptocurrency Market Data. This system ingests millions of non-standardized messages from various crypto-exchange WebSocket feeds.
+
+My objective is to transform this "digital noise" into a unified, high-throughput stream ready for production-grade consumption by evolving the system into a decoupled microservices architecture. By containerizing independent ingestion, normalization, and API layers, I am designing a platform that ensures horizontal scalability and fault tolerance—allowing it to handle the immense volatility of global market data without a single point of failure.</p>
 
             <div className="flex flex-wrap gap-4">
               <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-6 text-lg font-semibold hover-glow transition-all duration-300 group" onClick={() => document.getElementById('contact')?.scrollIntoView({
@@ -52,7 +54,7 @@ const HeroSection = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-full blur-3xl" />
               <div className="relative w-full h-full rounded-full bg-card border border-border flex items-center justify-center overflow-hidden">
                   <img
-                      src="/images/profile.jpg"
+                      src="public/images/profile.jpeg"
                       alt="Shivani Parate"
                       className="w-72 h-72 md:w-96 md:h-96 rounded-full object-cover mx-auto"
                     />

@@ -21,7 +21,7 @@ const ResumeSection = () => {
 
           {/* Download Link */}
           <a
-            href="/Shivani_Parate_Resume.pdf"
+            href="C:\Users\Shivani-Parate\Desktop\portfolio_website\public\Shivani Parate-Resume _12-03-2026.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -39,7 +39,7 @@ const ResumeSection = () => {
 
           {/* Note */}
           <p className="text-muted-foreground/60 text-sm mt-6">
-            Last Updated - December 2025
+            Last Updated - March 2026
           </p>
         </div>
       </div>

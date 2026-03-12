@@ -26,8 +26,8 @@ const ProjectsSection = () => {
     {
       title: "RAG based AI Research Assistant for Literature Review",
       description:
-        "AI-based real-time crowd monitoring system that analyzes live camera feeds to detect congestion, generate heatmaps, and send proactive safety alerts for large public gatherings.",
-      tags: ["YOLO","OpenCV","Gemini Vision","FastAPI","Firebase","Vertex AI","Google Maps API"],
+        "An AI-powered research platform that enables question-answering over academic PDFs through a high-integrity RAG pipeline and semantic vector search.",
+      tags: ["RAG", "LangChain", "Sentence Transformers", "ChromaDB", "Google Gemini", "Streamlit"],
     
       featured: true,
     },
